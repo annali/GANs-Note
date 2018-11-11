@@ -1,2 +1,1 @@
-# GANs-Note
-GANs的學習心得筆記與實作
+# Generative Adversarial Nets 學習心得筆記與實作
