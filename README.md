@@ -5,4 +5,4 @@
 - [Generative Adversarial Networks_An Overview](https://github.com/annali/GANs-Note/blob/master/02-Generative%20Adversarial%20Networks_An%20Overview.ipynb)
 
 ### 其他
-[Gan Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+- [Gan Zoo](https://github.com/hindupuravinash/the-gan-zoo)
