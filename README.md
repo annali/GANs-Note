@@ -2,7 +2,7 @@
 
 ### 閱讀筆記
 - [Generative Adversarial Nets](https://github.com/annali/GANs-Note/blob/master/01-Generative%20Adversarial%20Nets.ipynb)
-- [Generative Adversarial Networks_An Overview](https://github.com/annali/GANs-Note/blob/master/02-Generative%20Adversarial%20Networks_An%20Overview.ipynb)
+- [Generative Adversarial Networks:An Overview](https://github.com/annali/GANs-Note/blob/master/02-Generative%20Adversarial%20Networks_An%20Overview.ipynb)
 
 ### 其他
 - [Gan Zoo](https://github.com/hindupuravinash/the-gan-zoo)
